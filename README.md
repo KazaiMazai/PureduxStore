@@ -23,8 +23,6 @@ Yet another UDF state management lib
 ____________
 
 
-## Installation
-
 ## Important Notice
 
 This repo has been moved to [Puredux](https://github.com/KazaiMazai/Puredux) monorepo. Follow the installation guide there.
