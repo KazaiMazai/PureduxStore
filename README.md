@@ -39,15 +39,6 @@ To install it, in Xcode 11.0 or later select File > Swift Packages > Add Package
 ```
 https://github.com/KazaiMazai/Puredux
 ``` 
-
-### Swift Package Manager.
-
-PureduxStore is available through Swift Package Manager. 
-To install it, in Xcode 11.0 or later select File > Swift Packages > Add Package Dependency... and add Puredux repositoies URLs for the modules requried:
-
-```
-https://github.com/KazaiMazai/PureduxStore
-```
 ____________
 
 ## Basics
